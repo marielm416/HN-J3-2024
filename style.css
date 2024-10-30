@@ -6,3 +6,9 @@
   --secundary-color: #CCE0AC;
   --font: Josefin Sans;
 }
+
+span{
+    font-weight: bold;
+    color: white;
+    background-color: var(--secundary-color)
+}
